@@ -27,7 +27,7 @@ double* vector(double* Tochka1, double* Tochka2, double vector_[])
 	vector_[2] = Tochka1[2] - Tochka2[2];
 	return vector_;
 }
-
+//zz
 double* normal (double* Tochka1, double* Tochka2, double* Tochka3)
 {
 	double Vector1[3];
